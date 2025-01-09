@@ -1,6 +1,8 @@
-.navbar{height: 54px;
+.navbar{
+    height: 54px;
     padding:0px 24px;
-    margin: 0px 0px 2px;}
+    margin: 0px 0px 2px;
+}
 
 #micosoft_logo{
     height: 23px;
@@ -12,3 +14,20 @@
     height: 54px;
     padding: 16px 6px 16px 10px;
     margin: 1px 0px 0px 0px}
+
+.nav_iteams{
+      width:750px ;
+      height: 54px;
+      display: flex;
+       justify-content: space-evenly;
+         /* margin: 1px 0px 0px 0px; */
+
+}
+.nav_iteams2{
+      width:400px ;
+      height: 54px;
+      display: flex;
+       justify-content: space-evenly;
+         /* margin: 1px 0px 0px 0px; */
+
+}
